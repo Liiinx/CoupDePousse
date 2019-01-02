@@ -21,7 +21,7 @@ class App extends Component {
               </NavbarBrand>
               <Nav className="navigation">
                 <NavItem className="itemMenu">
-                  <NavLink exact to="" activeClassName="activeLien">
+                  <NavLink exact to="/" activeClassName="activeLien">
                     Mes challenges
                   </NavLink>
                 </NavItem>
@@ -39,7 +39,7 @@ class App extends Component {
             </Navbar>
 
             <Switch>
-              <Route exact path="" component={Challenges} />
+              <Route exact path="/" component={Challenges} />
               <Route exact path="/MonEquipe" component={MonEquipe} />
               <Route exact path="/success" component={Success} />
             </Switch>
