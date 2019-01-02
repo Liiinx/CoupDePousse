@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/CoupDePousse/static/media/Bonzai.3540d81f.png"
   },
   {
-    "revision": "7d67371c7a4da129b79b",
+    "revision": "353a9e5f775c12f03ff9",
     "url": "/CoupDePousse/static/css/main.5c590064.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/CoupDePousse/static/media/Pissenlit.7f2d17db.png"
   },
   {
-    "revision": "7d67371c7a4da129b79b",
-    "url": "/CoupDePousse/static/js/main.7d67371c.chunk.js"
+    "revision": "353a9e5f775c12f03ff9",
+    "url": "/CoupDePousse/static/js/main.353a9e5f.chunk.js"
   },
   {
     "revision": "e1c76cbae414a4ca52c7858ac56e105b",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/CoupDePousse/static/css/1.689e4e2a.chunk.css"
   },
   {
-    "revision": "1182782118da25a9c618aadf86d67016",
+    "revision": "29bffc32a8406d3bd277df848db44d13",
     "url": "/CoupDePousse/index.html"
   }
 ];
