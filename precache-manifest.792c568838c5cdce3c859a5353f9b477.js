@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/CoupDePousse/static/media/Bonzai.3540d81f.png"
   },
   {
-    "revision": "c712d9e670491953e27a",
-    "url": "/CoupDePousse/static/css/main.2556b996.chunk.css"
+    "revision": "911ae6c2d2d4e937f943",
+    "url": "/CoupDePousse/static/css/main.f5cce0cf.chunk.css"
   },
   {
     "revision": "a940410a1a8214befed86baf9e229c6d",
     "url": "/CoupDePousse/static/media/logo.a940410a.png"
   },
   {
-    "revision": "68b8d612d4f2f3ca289f",
-    "url": "/CoupDePousse/static/js/1.68b8d612.chunk.js"
+    "revision": "56300c65ba37aedc2ead",
+    "url": "/CoupDePousse/static/js/1.56300c65.chunk.js"
   },
   {
     "revision": "855e3f0c673f721bb534",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/CoupDePousse/static/media/Pissenlit.7f2d17db.png"
   },
   {
-    "revision": "c712d9e670491953e27a",
-    "url": "/CoupDePousse/static/js/main.c712d9e6.chunk.js"
+    "revision": "911ae6c2d2d4e937f943",
+    "url": "/CoupDePousse/static/js/main.911ae6c2.chunk.js"
   },
   {
     "revision": "e1c76cbae414a4ca52c7858ac56e105b",
@@ -60,11 +60,11 @@ self.__precacheManifest = [
     "url": "/CoupDePousse/static/media/4.61f835e9.png"
   },
   {
-    "revision": "68b8d612d4f2f3ca289f",
-    "url": "/CoupDePousse/static/css/1.2b564015.chunk.css"
+    "revision": "56300c65ba37aedc2ead",
+    "url": "/CoupDePousse/static/css/1.689e4e2a.chunk.css"
   },
   {
-    "revision": "b53380ea71b8e76f6aec2f779c4b5a13",
+    "revision": "7f3f15bafe1e6f7b7e404c665fdc2921",
     "url": "/CoupDePousse/index.html"
   }
 ];
