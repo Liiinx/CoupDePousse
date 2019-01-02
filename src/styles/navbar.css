@@ -1,13 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Questrial");
 
 .mynavbar {
-  position: fixed;
   color: black !important;
   font-size: 1.8em;
-  /*   margin-left: 5vh;
-  margin-right: 5vh; */
-
-  /*   margin-bottom: 2vh; */
   font-family: "Questrial";
   width: 80%;
   margin: 0 auto;

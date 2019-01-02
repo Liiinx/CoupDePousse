@@ -15,7 +15,7 @@ class App extends Component {
       <div className="App">
         <HashRouter>
           <div>
-            <Navbar>
+            <Navbar className="mynavbar">
               <NavbarBrand className="logohome">
                 <img src={Logo} alt="Coup de Pousse" />
               </NavbarBrand>
