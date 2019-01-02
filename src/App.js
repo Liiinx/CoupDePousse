@@ -22,7 +22,7 @@ class App extends Component {
               <Nav className="navigation">
                 <NavItem className="itemMenu">
                   <NavLink exact to="" activeClassName="activeLien">
-                    Mes challenge
+                    Mes challenges
                   </NavLink>
                 </NavItem>
                 <NavItem className="itemMenu">
