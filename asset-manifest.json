@@ -1,7 +1,7 @@
 {
   "main.css": "/CoupDePousse/static/css/main.5c590064.chunk.css",
-  "main.js": "/CoupDePousse/static/js/main.353a9e5f.chunk.js",
-  "main.js.map": "/CoupDePousse/static/js/main.353a9e5f.chunk.js.map",
+  "main.js": "/CoupDePousse/static/js/main.e2be0f53.chunk.js",
+  "main.js.map": "/CoupDePousse/static/js/main.e2be0f53.chunk.js.map",
   "static/css/1.689e4e2a.chunk.css": "/CoupDePousse/static/css/1.689e4e2a.chunk.css",
   "static/js/1.56300c65.chunk.js": "/CoupDePousse/static/js/1.56300c65.chunk.js",
   "static/js/1.56300c65.chunk.js.map": "/CoupDePousse/static/js/1.56300c65.chunk.js.map",
@@ -21,6 +21,6 @@
   "static/css/main.5c590064.chunk.css.map": "/CoupDePousse/static/css/main.5c590064.chunk.css.map",
   "static/css/1.689e4e2a.chunk.css.map": "/CoupDePousse/static/css/1.689e4e2a.chunk.css.map",
   "index.html": "/CoupDePousse/index.html",
-  "precache-manifest.3eba14acee8b48f5682c1c9328aa1b5e.js": "/CoupDePousse/precache-manifest.3eba14acee8b48f5682c1c9328aa1b5e.js",
+  "precache-manifest.229a4d9b68a900c304c9e1e2741bdd42.js": "/CoupDePousse/precache-manifest.229a4d9b68a900c304c9e1e2741bdd42.js",
   "service-worker.js": "/CoupDePousse/service-worker.js"
 }
